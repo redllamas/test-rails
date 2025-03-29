@@ -2,7 +2,7 @@
 service: test_rails
 
 # Name of the container image.
-image: test_rails
+image: test-rails
 
 # Deploy to these servers.
 servers:
